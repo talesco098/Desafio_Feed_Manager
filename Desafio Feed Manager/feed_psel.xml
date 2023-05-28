@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<produtos>
+    <item>
+       <id>403921</id>
+       <title>"Calca leging simples"</title>
+       <price>BRL 39.00</price>
+       <link>"www.loja.com.br/p/calca-legging-simples"</link>
+       <image_link>"www.loja.com.br/imagens/calca-legging-simples.jpg"</image_link>
+       <product_type>"Moda > Calças"</product_type>
+    </item>
+    <item>
+       <id>150446</id>
+       <title>"Bermuda jeans"</title>
+       <price>BRL 41.00</price>
+       <link>"www.loja.com.br/p/bermuda-jeans"</link>
+       <image_link>"www.loja.com.br/imagens/bermuda-jeans.jpg"</image_link>
+       <product_type>"Moda > Calças"</product_type>
+    </item>
+    <item>
+       <id>124930</id>
+       <title>"Vestido Cami sólido"</title>
+       <price>BRL 55.00</price>
+       <link>"www.loja.com.br/p/vestido-cami-solido"</link>
+       <image_link>"www.loja.com.br/imagens/vestido-cami-solido.jpg"</image_link>
+       <product_type>"Moda > Roupas"</product_type>
+    </item>
+    <item>
+       <id>135903</id>
+       <title>"Cinto de fivela quadrada"</title>
+       <price>BRL 15.00</price>
+       <link>"www.loja.com.br/p/cinto-fivela-quadrada"</link>
+       <image_link>"www.loja.com.br/imagens/cinto-fivela-quadrada.jpg"</image_link>
+       <product_type>"Moda > Acessórios"</product_type>
+    </item>
+    <item>
+       <id>665032</id>
+       <title>"Chinelo Slide"</title>
+       <price>BRL 29.00</price>
+       <link>"www.loja.com.br/p/chinelo-slide"</link>
+       <image_link>"www.loja.com.br/imagens/chinelo-slide.jpg"</image_link>
+       <product_type>"Moda > Calçados"</product_type>
+    </item>
+    <item>
+       <id>106954</id>
+       <title>"Sandálias deslizantes"</title>
+       <price>BRL 59.00</price>
+       <link>"www.loja.com.br/p/sandalias-deslizantes"</link>
+       <image_link>"www.loja.com.br/imagens/sandalias-deslizantes.mp3"</image_link>
+       <product_type>"Moda > Calçados"</product_type>
+    </item>
+    <item>
+       <id>330593</id>
+       <title>"Tênis de corrida"</title>
+       <price>BRL 149.40</price>
+       <link>"www.loja.com.br/p/tenis-de-corrida"</link>
+       <image_link>"www.loja.com.br/imagens/tenis-de-corrida.jpg"</image_link>
+       <product_type>"Moda > Calçados"</product_type>
+    </item>
+    <item>
+       <id>540178</id>
+       <title>"Jaqueta de couro"</title>
+       <price>BRL 120.00</price>
+       <link>"www.loja.com.br/p/jaqueta-couro"</link>
+       <image_link>"www.loja.com.br/imagens/calca-legging-simples.jpg"</image_link>
+       <product_type>"Moda > Casacos"</product_type>
+    </item>
+    <item>
+       <id>907381</id>
+       <title>"Gorro bordado minimalista"</title>
+       <price>BRL 59.90</price>
+       <link>"www.loja.com.br/p/gorro-bordado-minimalista"</link>
+       <image_link>"www.loja.com.br/imagens/gorro-bordado-minimalista.jpg"</image_link>
+       <product_type>"Moda > Acessórios"</product_type>
+    </item>
+    <item>
+       <id>595044</id>
+       <title>"Óculos de sol - Unissex"</title>
+       <price>BRL 69.90</price>
+       <link>"www.loja.com.br/p/oculos-sol-unissex"</link>
+       <image_link>"www.loja.com.br/imagens/oculos-sol-unissex.jpg"</image_link>
+       <product_type>"Moda > Acessórios"</product_type>
+    </item>
+</produtos>
